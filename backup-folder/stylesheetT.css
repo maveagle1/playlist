@@ -1,0 +1,54 @@
+.row  {
+  margin: 100px 150px;
+  background-color: lightGrey;
+  min-height: 650px;
+}
+.col1{
+    /*margin:3px;*/
+    min-height: 450px;
+    text-align:center;
+    background-color: lightGrey;
+}
+
+.col3{
+    /*margin:3px;*/
+    min-height:540px;
+    text-align:center;
+    background-color: lightGrey;
+}
+
+.row2{
+  /*margin:3px;*/
+  min-height:40px;
+  text-align:center;
+  background-color: silver;
+}
+.row3{
+  margin:3px;
+  min-height:550px;
+  text-align:center;
+  background-color: LightGrey;
+}
+.row4{
+  margin:3px;
+  min-height:40px;
+  text-align: left;
+  color: white;
+  text-indent: 50px;
+  padding: 5px 10px;
+  background-color: silver;
+}
+input{
+  padding
+  /*text-align: center;*/
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+}
+h3{
+  text-align: center;
+  padding-top: 200px;
+  padding-right: 50px;
+  padding-left: 50px;
+}
